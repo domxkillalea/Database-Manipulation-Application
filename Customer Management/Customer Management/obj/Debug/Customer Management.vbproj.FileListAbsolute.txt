@@ -1,0 +1,11 @@
+c:\users\f31-leoprd\documents\visual studio 2015\Projects\Customer Management\Customer Management\bin\Debug\Customer Management.exe.config
+c:\users\f31-leoprd\documents\visual studio 2015\Projects\Customer Management\Customer Management\bin\Debug\Customer Management.exe
+c:\users\f31-leoprd\documents\visual studio 2015\Projects\Customer Management\Customer Management\bin\Debug\Customer Management.pdb
+c:\users\f31-leoprd\documents\visual studio 2015\Projects\Customer Management\Customer Management\bin\Debug\Customer Management.xml
+c:\users\f31-leoprd\documents\visual studio 2015\Projects\Customer Management\Customer Management\obj\Debug\Customer Management.vbprojResolveAssemblyReference.cache
+c:\users\f31-leoprd\documents\visual studio 2015\Projects\Customer Management\Customer Management\obj\Debug\Customer_Management.Form1.resources
+c:\users\f31-leoprd\documents\visual studio 2015\Projects\Customer Management\Customer Management\obj\Debug\Customer_Management.Resources.resources
+c:\users\f31-leoprd\documents\visual studio 2015\Projects\Customer Management\Customer Management\obj\Debug\Customer Management.vbproj.GenerateResource.Cache
+c:\users\f31-leoprd\documents\visual studio 2015\Projects\Customer Management\Customer Management\obj\Debug\Customer Management.exe
+c:\users\f31-leoprd\documents\visual studio 2015\Projects\Customer Management\Customer Management\obj\Debug\Customer Management.xml
+c:\users\f31-leoprd\documents\visual studio 2015\Projects\Customer Management\Customer Management\obj\Debug\Customer Management.pdb
